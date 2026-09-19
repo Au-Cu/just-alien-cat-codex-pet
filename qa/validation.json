@@ -1,544 +1,101 @@
 {
-  "ok": true,
   "width": 1536,
   "height": 2288,
-  "channels": 4,
-  "columns": 8,
-  "rows": 11,
-  "cellWidth": 192,
-  "cellHeight": 208,
   "usedFrames": 74,
-  "transparentPixels": 1959960,
-  "errors": [],
-  "cells": [
-    {
-      "row": 0,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 19493
-    },
-    {
-      "row": 0,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 19474
-    },
-    {
-      "row": 0,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 19435
-    },
-    {
-      "row": 0,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 20191
-    },
-    {
-      "row": 0,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 19456
-    },
-    {
-      "row": 0,
-      "column": 5,
-      "expectedUsed": true,
-      "opaquePixels": 19592
-    },
-    {
-      "row": 0,
-      "column": 6,
-      "expectedUsed": true,
-      "opaquePixels": 19599
-    },
-    {
-      "row": 0,
-      "column": 7,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 1,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 17426
-    },
-    {
-      "row": 1,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 18071
-    },
-    {
-      "row": 1,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 18248
-    },
-    {
-      "row": 1,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 16908
-    },
-    {
-      "row": 1,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 17424
-    },
-    {
-      "row": 1,
-      "column": 5,
-      "expectedUsed": true,
-      "opaquePixels": 17908
-    },
-    {
-      "row": 1,
-      "column": 6,
-      "expectedUsed": true,
-      "opaquePixels": 16611
-    },
-    {
-      "row": 1,
-      "column": 7,
-      "expectedUsed": true,
-      "opaquePixels": 16560
-    },
-    {
-      "row": 2,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 16663
-    },
-    {
-      "row": 2,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 17987
-    },
-    {
-      "row": 2,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 16838
-    },
-    {
-      "row": 2,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 17511
-    },
-    {
-      "row": 2,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 16392
-    },
-    {
-      "row": 2,
-      "column": 5,
-      "expectedUsed": true,
-      "opaquePixels": 18225
-    },
-    {
-      "row": 2,
-      "column": 6,
-      "expectedUsed": true,
-      "opaquePixels": 16685
-    },
-    {
-      "row": 2,
-      "column": 7,
-      "expectedUsed": true,
-      "opaquePixels": 16506
-    },
-    {
-      "row": 3,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 19692
-    },
-    {
-      "row": 3,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 20096
-    },
-    {
-      "row": 3,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 19925
-    },
-    {
-      "row": 3,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 19895
-    },
-    {
-      "row": 3,
-      "column": 4,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 3,
-      "column": 5,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 3,
-      "column": 6,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 3,
-      "column": 7,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 4,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 22381
-    },
-    {
-      "row": 4,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 21441
-    },
-    {
-      "row": 4,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 23302
-    },
-    {
-      "row": 4,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 20376
-    },
-    {
-      "row": 4,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 20233
-    },
-    {
-      "row": 4,
-      "column": 5,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 4,
-      "column": 6,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 4,
-      "column": 7,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 5,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 18772
-    },
-    {
-      "row": 5,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 18930
-    },
-    {
-      "row": 5,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 21685
-    },
-    {
-      "row": 5,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 26069
-    },
-    {
-      "row": 5,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 22737
-    },
-    {
-      "row": 5,
-      "column": 5,
-      "expectedUsed": true,
-      "opaquePixels": 20738
-    },
-    {
-      "row": 5,
-      "column": 6,
-      "expectedUsed": true,
-      "opaquePixels": 18537
-    },
-    {
-      "row": 5,
-      "column": 7,
-      "expectedUsed": true,
-      "opaquePixels": 14537
-    },
-    {
-      "row": 6,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 19215
-    },
-    {
-      "row": 6,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 19904
-    },
-    {
-      "row": 6,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 18853
-    },
-    {
-      "row": 6,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 18357
-    },
-    {
-      "row": 6,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 20211
-    },
-    {
-      "row": 6,
-      "column": 5,
-      "expectedUsed": true,
-      "opaquePixels": 19403
-    },
-    {
-      "row": 6,
-      "column": 6,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 6,
-      "column": 7,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 7,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 18855
-    },
-    {
-      "row": 7,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 18962
-    },
-    {
-      "row": 7,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 19018
-    },
-    {
-      "row": 7,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 22524
-    },
-    {
-      "row": 7,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 19003
-    },
-    {
-      "row": 7,
-      "column": 5,
-      "expectedUsed": true,
-      "opaquePixels": 19016
-    },
-    {
-      "row": 7,
-      "column": 6,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 7,
-      "column": 7,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 8,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 19350
-    },
-    {
-      "row": 8,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 18780
-    },
-    {
-      "row": 8,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 18834
-    },
-    {
-      "row": 8,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 18330
-    },
-    {
-      "row": 8,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 18979
-    },
-    {
-      "row": 8,
-      "column": 5,
-      "expectedUsed": true,
-      "opaquePixels": 18324
-    },
-    {
-      "row": 8,
-      "column": 6,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 8,
-      "column": 7,
-      "expectedUsed": false,
-      "opaquePixels": 0
-    },
-    {
-      "row": 9,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 17363
-    },
-    {
-      "row": 9,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 16652
-    },
-    {
-      "row": 9,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 15822
-    },
-    {
-      "row": 9,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 15635
-    },
-    {
-      "row": 9,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 13805
-    },
-    {
-      "row": 9,
-      "column": 5,
-      "expectedUsed": true,
-      "opaquePixels": 13257
-    },
-    {
-      "row": 9,
-      "column": 6,
-      "expectedUsed": true,
-      "opaquePixels": 12919
-    },
-    {
-      "row": 9,
-      "column": 7,
-      "expectedUsed": true,
-      "opaquePixels": 14659
-    },
-    {
-      "row": 10,
-      "column": 0,
-      "expectedUsed": true,
-      "opaquePixels": 16657
-    },
-    {
-      "row": 10,
-      "column": 1,
-      "expectedUsed": true,
-      "opaquePixels": 15678
-    },
-    {
-      "row": 10,
-      "column": 2,
-      "expectedUsed": true,
-      "opaquePixels": 15600
-    },
-    {
-      "row": 10,
-      "column": 3,
-      "expectedUsed": true,
-      "opaquePixels": 15535
-    },
-    {
-      "row": 10,
-      "column": 4,
-      "expectedUsed": true,
-      "opaquePixels": 13633
-    },
-    {
-      "row": 10,
-      "column": 5,
-      "expectedUsed": true,
-      "opaquePixels": 13564
-    },
-    {
-      "row": 10,
-      "column": 6,
-      "expectedUsed": true,
-      "opaquePixels": 14921
-    },
-    {
-      "row": 10,
-      "column": 7,
-      "expectedUsed": true,
-      "opaquePixels": 16452
-    }
+  "palette": [
+    183.0,
+    218.0,
+    72.0
   ],
-  "note": "Structural validation only. First generated appearance selected by user; no claim of pixel-identical poses or live Codex playback validation."
+  "cellOccupancy": [
+    19490,
+    19475,
+    19436,
+    20188,
+    19458,
+    19592,
+    19596,
+    0,
+    17423,
+    18073,
+    18248,
+    16904,
+    17426,
+    17907,
+    16607,
+    16560,
+    16657,
+    17988,
+    16830,
+    17509,
+    16392,
+    18221,
+    16685,
+    16506,
+    19692,
+    20093,
+    19928,
+    19890,
+    0,
+    0,
+    0,
+    0,
+    22386,
+    21441,
+    23299,
+    20373,
+    20230,
+    0,
+    0,
+    0,
+    18769,
+    18930,
+    21688,
+    26070,
+    22736,
+    20735,
+    18535,
+    14537,
+    19217,
+    19903,
+    18852,
+    18358,
+    20209,
+    19401,
+    0,
+    0,
+    18854,
+    18960,
+    19017,
+    22518,
+    19005,
+    19016,
+    0,
+    0,
+    19350,
+    18779,
+    18831,
+    18328,
+    18976,
+    18326,
+    0,
+    0,
+    17362,
+    16652,
+    15817,
+    15631,
+    13803,
+    13259,
+    12918,
+    14658,
+    16657,
+    15673,
+    15601,
+    15532,
+    13634,
+    13563,
+    14921,
+    16448
+  ],
+  "method": "Flat color edge reconstruction with 4x supersampling; frame positions and atlas geometry retained"
 }

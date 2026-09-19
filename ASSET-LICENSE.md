@@ -24,3 +24,6 @@ Based on https://github.com/Au-Cu/just-big-cat-codex-pet at aa97d98915999009ee60
 JUST大猫 Codex Pet artwork by Au-Cu and contributors, licensed under CC BY 4.0.
 
 Changes: green alien-cat appearance using the user-selected first image-generation version; atlas normalized to the original dimensions and encoded as lossless RGBA WebP.
+
+
+Clear-edged edition: flat-color edge reconstruction and removal of soft color halos. Alien-cat facial features additionally refined to retain nose and mole without a mouth.
