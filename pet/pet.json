@@ -1,7 +1,7 @@
 {
   "id": "just-alien-cat",
   "displayName": "JUST外星猫",
-  "description": "基于 JUST大猫改编的绿色外星猫，采用用户选定的第一版形象。",
+  "description": "基于 JUST大猫改编的绿色外星猫",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
